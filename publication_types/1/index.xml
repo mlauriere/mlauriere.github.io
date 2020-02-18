@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Mathieu Laurière&#39;s homepage</title>
+    <link>https://mlauriere.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Mathieu Laurière&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mlauriere.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extended Learning Graphs for Triangle Finding</title>
+      <link>https://mlauriere.github.io/publication/carette-lm-17-stacs-16/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/carette-lm-17-stacs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Flow of Information in Interactive Quantum Protocols: the Cost of Forgetting</title>
+      <link>https://mlauriere.github.io/publication/dblp-confinnovations-lauriere-t-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/dblp-confinnovations-lauriere-t-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The information cost of quantum memoryless protocols</title>
+      <link>https://mlauriere.github.io/publication/aqis-17-chailloux-kl-memoryless/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/aqis-17-chailloux-kl-memoryless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Bell Inequalities from Communication Complexity</title>
+      <link>https://mlauriere.github.io/publication/dblp-conftqc-laplante-lnrs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/dblp-conftqc-laplante-lnrs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The problem of musical gesture continuation and a baseline system</title>
+      <link>https://mlauriere.github.io/publication/bascou-2016-problem/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/bascou-2016-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information cost of quantum communication protocols</title>
+      <link>https://mlauriere.github.io/publication/aqis-15-kerenidis-lgr-icq/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/aqis-15-kerenidis-lgr-icq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative Discrepancy Does not Separate Information and Communication Complexity</title>
+      <link>https://mlauriere.github.io/publication/dblp-conficalp-fontes-jkllr-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/dblp-conficalp-fontes-jkllr-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Lower Bounds for Privacy in Communication Protocols</title>
+      <link>https://mlauriere.github.io/publication/dblp-conficits-kerenidis-lx-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/dblp-conficits-kerenidis-lx-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

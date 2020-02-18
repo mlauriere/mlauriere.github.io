@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workingpapers on Mathieu Laurière&#39;s homepage</title>
+    <link>https://mlauriere.github.io/workingpaper/</link>
+    <description>Recent content in Workingpapers on Mathieu Laurière&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mlauriere.github.io/workingpaper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Connecting GANs and MFGs</title>
+      <link>https://mlauriere.github.io/workingpaper/cao-guo-lauriere-2020-mfggan/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/cao-guo-lauriere-2020-mfggan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Banking Systems with Default and Recovery: A Mean Field Game Model</title>
+      <link>https://mlauriere.github.io/workingpaper/elie-ichiba-lauriere-2020-large-banking-mfg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/elie-ichiba-lauriere-2020-large-banking-mfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal control of conditioned processes with feedback controls</title>
+      <link>https://mlauriere.github.io/workingpaper/achdou-lauriere-lions-2019-condition/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/achdou-lauriere-lions-2019-condition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backward propagation of chaos</title>
+      <link>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2019-back-chaos/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2019-back-chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Graphon Games: I. The Static Case</title>
+      <link>https://mlauriere.github.io/workingpaper/carmona-cooney-graves-lauriere-2019-sto-graphon-games-static/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/carmona-cooney-graves-lauriere-2019-sto-graphon-games-static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Free Mean-Field Reinforcement Learning: Mean-Field MDP and Mean-Field Q-Learning</title>
+      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-mqfrl/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-mqfrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear-Quadratic Mean-Field Reinforcement Learning: Convergence of Policy Gradient Methods</title>
+      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-lqmfrl/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-lqmfrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: II - The Finite Horizon Case</title>
+      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: I - The Ergodic Case</title>
+      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl-periodic/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl-periodic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
