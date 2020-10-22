@@ -7,17 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mlauriere.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A multipartite generalization of quantum discord</title>
-      <link>https://mlauriere.github.io/publication/radhakrishnan-lauriere-byrnes-2020-q-discord/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Optimal control of conditioned processes with feedback controls</title>
+      <link>https://mlauriere.github.io/publication/achdou-lauriere-lions-2020-optimal/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/publication/radhakrishnan-lauriere-byrnes-2020-q-discord/</guid>
+      <guid>https://mlauriere.github.io/publication/achdou-lauriere-lions-2020-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipartite Generalization of Quantum Discord</title>
+      <link>https://mlauriere.github.io/publication/phys-rev-lett-124-110401/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/phys-rev-lett-124-110401/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 pandemic control: balancing detection policy and lockdown intervention under ICU sustainability</title>
+      <link>https://mlauriere.github.io/preprint/charpentier-2020-covid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/preprint/charpentier-2020-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning a functional control for high-frequency finance</title>
+      <link>https://mlauriere.github.io/preprint/leal-2020-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/preprint/leal-2020-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear-Quadratic Zero-Sum Mean-Field Type Games: Optimality Conditions and Policy Optimization</title>
+      <link>https://mlauriere.github.io/preprint/carmona-2020-linear/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/preprint/carmona-2020-linear/</guid>
       <description></description>
     </item>
     
@@ -27,15 +63,6 @@
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/publication/carette-lauriere-magniez-2019-algorithmica-triangle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Approximate Fictitious Play for Mean Field Games</title>
-      <link>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</guid>
       <description></description>
     </item>
     

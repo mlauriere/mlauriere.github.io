@@ -7,80 +7,98 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mlauriere.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Connecting GANs and MFGs</title>
-      <link>https://mlauriere.github.io/workingpaper/cao-guo-lauriere-2020-mfggan/</link>
+      <title>Unified reinforcement Q-learning for mean field game and control problems</title>
+      <link>https://mlauriere.github.io/preprint/angiuli-2020-unified/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/preprint/angiuli-2020-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting GANs, MFGs, and OT</title>
+      <link>https://mlauriere.github.io/preprint/cao-guo-lauriere-2020-mfggan/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/workingpaper/cao-guo-lauriere-2020-mfggan/</guid>
+      <guid>https://mlauriere.github.io/preprint/cao-guo-lauriere-2020-mfggan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of large population games to mean field games with interaction through the controls</title>
+      <link>https://mlauriere.github.io/preprint/lauriere-tangpi-2020-convergence/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/preprint/lauriere-tangpi-2020-convergence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large Banking Systems with Default and Recovery: A Mean Field Game Model</title>
-      <link>https://mlauriere.github.io/workingpaper/elie-ichiba-lauriere-2020-large-banking-mfg/</link>
+      <link>https://mlauriere.github.io/preprint/elie-ichiba-lauriere-2020-large-banking-mfg/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/workingpaper/elie-ichiba-lauriere-2020-large-banking-mfg/</guid>
+      <guid>https://mlauriere.github.io/preprint/elie-ichiba-lauriere-2020-large-banking-mfg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Backward propagation of chaos</title>
-      <link>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2019-back-chaos/</link>
+      <link>https://mlauriere.github.io/preprint/lauriere-tangpi-2019-back-chaos/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2019-back-chaos/</guid>
+      <guid>https://mlauriere.github.io/preprint/lauriere-tangpi-2019-back-chaos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic Graphon Games: I. The Static Case</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-cooney-graves-lauriere-2019-sto-graphon-games-static/</link>
+      <link>https://mlauriere.github.io/preprint/carmona-cooney-graves-lauriere-2019-sto-graphon-games-static/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/workingpaper/carmona-cooney-graves-lauriere-2019-sto-graphon-games-static/</guid>
+      <guid>https://mlauriere.github.io/preprint/carmona-cooney-graves-lauriere-2019-sto-graphon-games-static/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Free Mean-Field Reinforcement Learning: Mean-Field MDP and Mean-Field Q-Learning</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-mqfrl/</link>
+      <link>https://mlauriere.github.io/preprint/carmona-lauriere-tan-2019-mqfrl/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-mqfrl/</guid>
+      <guid>https://mlauriere.github.io/preprint/carmona-lauriere-tan-2019-mqfrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear-Quadratic Mean-Field Reinforcement Learning: Convergence of Policy Gradient Methods</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-lqmfrl/</link>
+      <link>https://mlauriere.github.io/preprint/carmona-lauriere-tan-2019-lqmfrl/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-lqmfrl/</guid>
+      <guid>https://mlauriere.github.io/preprint/carmona-lauriere-tan-2019-lqmfrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: II - The Finite Horizon Case</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl/</link>
+      <link>https://mlauriere.github.io/preprint/carmona-lauriere-dl/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl/</guid>
+      <guid>https://mlauriere.github.io/preprint/carmona-lauriere-dl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: I - The Ergodic Case</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl-periodic/</link>
+      <link>https://mlauriere.github.io/preprint/carmona-lauriere-dl-periodic/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl-periodic/</guid>
+      <guid>https://mlauriere.github.io/preprint/carmona-lauriere-dl-periodic/</guid>
       <description></description>
     </item>
     

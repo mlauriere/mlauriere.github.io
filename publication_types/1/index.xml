@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mlauriere.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fictitious play for mean field games: Continuous time analysis and applications</title>
+      <link>https://mlauriere.github.io/publication/perrin-2020-fictitious/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/perrin-2020-fictitious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Optimization for Linear-Quadratic Zero-Sum Mean-Field Type Games</title>
+      <link>https://mlauriere.github.io/publication/carmona-2020-policy/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/carmona-2020-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Convergence of Model Free Learning in Mean Field Games</title>
+      <link>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Extended Learning Graphs for Triangle Finding</title>
