@@ -6,17 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
       <link>https://mlauriere.github.io/home_original/about_original/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home_original/about_original/</guid>
       <description>&lt;p&gt;I am currently a Postdoctoral Research Associate at Princeton University, in the Operations Research and Financial Engineering (ORFE) department, advised by René Carmona. My research interests include mean field control and mean field games, numerical methods, partial differential equations, stochastic analysis, machine learning, complexity theory and quantum computing.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Mean Field Games and Applications: Numerical Aspects</title>
+      <link>https://mlauriere.github.io/publication/achdoulauriere-2020-mfg-numerical/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/achdoulauriere-2020-mfg-numerical/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/publication/mr-3945235-penal-siads-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A class of finite-dimensional numerically solvable McKean-Vlasov control problems</title>
-      <link>https://mlauriere.github.io/publication/balata-hureetal-cemracs-2017/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/balata-hureetal-cemracs-2017/</guid>
       <description></description>
     </item>
     
