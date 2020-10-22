@@ -56,15 +56,6 @@
     </item>
     
     <item>
-      <title>Optimal control of conditioned processes with feedback controls</title>
-      <link>https://mlauriere.github.io/workingpaper/achdou-lauriere-lions-2019-condition/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/achdou-lauriere-lions-2019-condition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Backward propagation of chaos</title>
       <link>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2019-back-chaos/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
@@ -142,6 +133,15 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/publication/mr-3945235-penal-siads-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A class of finite-dimensional numerically solvable McKean-Vlasov control problems</title>
+      <link>https://mlauriere.github.io/publication/balata-hureetal-cemracs-2017/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/balata-hureetal-cemracs-2017/</guid>
       <description></description>
     </item>
     
