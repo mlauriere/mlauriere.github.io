@@ -7,17 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mlauriere.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A multipartite generalization of quantum discord</title>
-      <link>https://mlauriere.github.io/publication/radhakrishnan-lauriere-byrnes-2020-q-discord/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Fictitious play for mean field games: Continuous time analysis and applications</title>
+      <link>https://mlauriere.github.io/publication/perrin-2020-fictitious/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/publication/radhakrishnan-lauriere-byrnes-2020-q-discord/</guid>
+      <guid>https://mlauriere.github.io/publication/perrin-2020-fictitious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Optimization for Linear-Quadratic Zero-Sum Mean-Field Type Games</title>
+      <link>https://mlauriere.github.io/publication/carmona-2020-policy/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/carmona-2020-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean Field Games and Applications: Numerical Aspects</title>
+      <link>https://mlauriere.github.io/publication/achdoulauriere-2020-mfg-numerical/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/achdoulauriere-2020-mfg-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal control of conditioned processes with feedback controls</title>
+      <link>https://mlauriere.github.io/publication/achdou-lauriere-lions-2020-optimal/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/achdou-lauriere-lions-2020-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Fictitious Play for Mean Field Games</title>
+      <link>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipartite Generalization of Quantum Discord</title>
+      <link>https://mlauriere.github.io/publication/phys-rev-lett-124-110401/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/phys-rev-lett-124-110401/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 pandemic control: balancing detection policy and lockdown intervention under ICU sustainability*</title>
+      <link>https://mlauriere.github.io/publication/charpentier-2020-covid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/charpentier-2020-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Graphon Games: I. The Static Case</title>
+      <link>https://mlauriere.github.io/publication/carmona-cooney-graves-lauriere-2019-sto-graphon-games-static/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/carmona-cooney-graves-lauriere-2019-sto-graphon-games-static/</guid>
       <description></description>
     </item>
     
@@ -31,11 +94,11 @@
     </item>
     
     <item>
-      <title>Approximate Fictitious Play for Mean Field Games</title>
-      <link>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: I - The Ergodic Case</title>
+      <link>https://mlauriere.github.io/publication/carmona-lauriere-dl-periodic/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</guid>
+      <guid>https://mlauriere.github.io/publication/carmona-lauriere-dl-periodic/</guid>
       <description></description>
     </item>
     

@@ -6,13 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
       <link>https://mlauriere.github.io/home_original/about_original/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home_original/about_original/</guid>
       <description>&lt;p&gt;I am currently a Postdoctoral Research Associate at Princeton University, in the Operations Research and Financial Engineering (ORFE) department, advised by René Carmona. My research interests include mean field control and mean field games, numerical methods, partial differential equations, stochastic analysis, machine learning, complexity theory and quantum computing.&lt;/p&gt;
@@ -20,11 +20,92 @@
     </item>
     
     <item>
-      <title>A multipartite generalization of quantum discord</title>
-      <link>https://mlauriere.github.io/publication/radhakrishnan-lauriere-byrnes-2020-q-discord/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <title>DeepSets and their derivative networks for solving symmetric PDEs</title>
+      <link>https://mlauriere.github.io/workingpaper/germain-2021-deepsets/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mlauriere.github.io/publication/radhakrishnan-lauriere-byrnes-2020-q-discord/</guid>
+      <guid>https://mlauriere.github.io/workingpaper/germain-2021-deepsets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean Field Models to Regulate Carbon Emissions in Electricity Production</title>
+      <link>https://mlauriere.github.io/workingpaper/carmona-2021-mf-gcarbon/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/carmona-2021-mf-gcarbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling up Mean Field Games with Online Mirror Descent</title>
+      <link>https://mlauriere.github.io/workingpaper/perolat-2021-scalingup/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/perolat-2021-scalingup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fictitious play for mean field games: Continuous time analysis and applications</title>
+      <link>https://mlauriere.github.io/publication/perrin-2020-fictitious/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/perrin-2020-fictitious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Optimization for Linear-Quadratic Zero-Sum Mean-Field Type Games</title>
+      <link>https://mlauriere.github.io/publication/carmona-2020-policy/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/carmona-2020-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean Field Games and Applications: Numerical Aspects</title>
+      <link>https://mlauriere.github.io/publication/achdoulauriere-2020-mfg-numerical/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/achdoulauriere-2020-mfg-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal control of conditioned processes with feedback controls</title>
+      <link>https://mlauriere.github.io/publication/achdou-lauriere-lions-2020-optimal/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/achdou-lauriere-lions-2020-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Fictitious Play for Mean Field Games</title>
+      <link>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified reinforcement Q-learning for mean field game and control problems</title>
+      <link>https://mlauriere.github.io/workingpaper/angiuli-2020-unified/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/angiuli-2020-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipartite Generalization of Quantum Discord</title>
+      <link>https://mlauriere.github.io/publication/phys-rev-lett-124-110401/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/phys-rev-lett-124-110401/</guid>
       <description></description>
     </item>
     
@@ -38,110 +119,29 @@
     </item>
     
     <item>
+      <title>Convergence of large population games to mean field games with interaction through the controls</title>
+      <link>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2020-convergence/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2020-convergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 pandemic control: balancing detection policy and lockdown intervention under ICU sustainability*</title>
+      <link>https://mlauriere.github.io/publication/charpentier-2020-covid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/charpentier-2020-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Large Banking Systems with Default and Recovery: A Mean Field Game Model</title>
       <link>https://mlauriere.github.io/workingpaper/elie-ichiba-lauriere-2020-large-banking-mfg/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/workingpaper/elie-ichiba-lauriere-2020-large-banking-mfg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal control of conditioned processes with feedback controls</title>
-      <link>https://mlauriere.github.io/workingpaper/achdou-lauriere-lions-2019-condition/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/achdou-lauriere-lions-2019-condition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Backward propagation of chaos</title>
-      <link>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2019-back-chaos/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2019-back-chaos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stochastic Graphon Games: I. The Static Case</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-cooney-graves-lauriere-2019-sto-graphon-games-static/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/carmona-cooney-graves-lauriere-2019-sto-graphon-games-static/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-Free Mean-Field Reinforcement Learning: Mean-Field MDP and Mean-Field Q-Learning</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-mqfrl/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-mqfrl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Extended Learning Graphs for Triangle Finding</title>
-      <link>https://mlauriere.github.io/publication/carette-lauriere-magniez-2019-algorithmica-triangle/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/carette-lauriere-magniez-2019-algorithmica-triangle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear-Quadratic Mean-Field Reinforcement Learning: Convergence of Policy Gradient Methods</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-lqmfrl/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-lqmfrl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: II - The Finite Horizon Case</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: I - The Ergodic Case</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl-periodic/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl-periodic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Approximate Fictitious Play for Mean Field Games</title>
-      <link>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Penalization of nonsmooth dynamical systems with noise: ergodicity and asymptotic formulae for threshold crossings probabilities</title>
-      <link>https://mlauriere.github.io/publication/mr-3945235-penal-siads-19/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/mr-3945235-penal-siads-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A class of finite-dimensional numerically solvable McKean-Vlasov control problems</title>
-      <link>https://mlauriere.github.io/publication/balata-hureetal-cemracs-2017/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/balata-hureetal-cemracs-2017/</guid>
       <description></description>
     </item>
     

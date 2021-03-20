@@ -7,9 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mlauriere.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Numerical simulations</title>
+      <link>https://mlauriere.github.io/tags/numerical-simulations/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/tags/numerical-simulations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal control driven by an eigenvalue problem</title>
+      <link>https://mlauriere.github.io/tags/optimal-control-driven-by-an-eigenvalue-problem/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/tags/optimal-control-driven-by-an-eigenvalue-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal control of conditioned process</title>
+      <link>https://mlauriere.github.io/tags/optimal-control-of-conditioned-process/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/tags/optimal-control-of-conditioned-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimality conditions</title>
+      <link>https://mlauriere.github.io/tags/optimality-conditions/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/tags/optimality-conditions/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

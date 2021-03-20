@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://mlauriere.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://mlauriere.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>https://mlauriere.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -33,7 +33,7 @@
     <item>
       <title></title>
       <link>https://mlauriere.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/about/</guid>
       <description>I am currently a Postdoctoral Research Associate at Princeton University, in the Operations Research and Financial Engineering (ORFE) department. I obtained my MS from University Paris 6 and ENS Cachan, and my PhD from University Paris 7. Prior to joining Princeton University, I was a Postdoctoral Fellow at the NYU-ECNU Institute of Mathematical Sciences at NYU Shanghai.
@@ -43,7 +43,7 @@ My research interests include mean field control and mean field games, numerical
     <item>
       <title>Skills</title>
       <link>https://mlauriere.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/skills/</guid>
       <description></description>
@@ -61,7 +61,7 @@ My research interests include mean field control and mean field games, numerical
     <item>
       <title>Selected Publications</title>
       <link>https://mlauriere.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/publications_selected/</guid>
       <description></description>
@@ -70,7 +70,7 @@ My research interests include mean field control and mean field games, numerical
     <item>
       <title>Working Papers</title>
       <link>https://mlauriere.github.io/home/workingpapers/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/workingpapers/</guid>
       <description></description>
@@ -79,7 +79,7 @@ My research interests include mean field control and mean field games, numerical
     <item>
       <title>Recent Publications</title>
       <link>https://mlauriere.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/publications/</guid>
       <description></description>
@@ -97,7 +97,7 @@ My research interests include mean field control and mean field games, numerical
     <item>
       <title>Selected Talks</title>
       <link>https://mlauriere.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/talks_selected/</guid>
       <description></description>
@@ -106,7 +106,7 @@ My research interests include mean field control and mean field games, numerical
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://mlauriere.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/talks/</guid>
       <description></description>
@@ -115,7 +115,7 @@ My research interests include mean field control and mean field games, numerical
     <item>
       <title>Recent Posts</title>
       <link>https://mlauriere.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/posts/</guid>
       <description></description>
@@ -124,7 +124,7 @@ My research interests include mean field control and mean field games, numerical
     <item>
       <title>Projects</title>
       <link>https://mlauriere.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/projects/</guid>
       <description></description>
@@ -133,7 +133,7 @@ My research interests include mean field control and mean field games, numerical
     <item>
       <title>Custom Section</title>
       <link>https://mlauriere.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -143,7 +143,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>CV</title>
       <link>https://mlauriere.github.io/home/cv/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/cv/</guid>
       <description>Download my CV</description>
@@ -152,7 +152,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Tags</title>
       <link>https://mlauriere.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/tags/</guid>
       <description></description>
@@ -161,7 +161,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Contact</title>
       <link>https://mlauriere.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/contact/</guid>
       <description></description>
