@@ -20,11 +20,65 @@
     </item>
     
     <item>
+      <title>Concave Utility Reinforcement Learning: the Mean-field Game viewpoint</title>
+      <link>https://mlauriere.github.io/workingpaper/geist-2021-concave/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/geist-2021-concave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: II - The Finite Horizon Case</title>
+      <link>https://mlauriere.github.io/publication/carmona-lauriere-dl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/carmona-lauriere-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Mean Field Games and Mean Field Control with Applications to Finance</title>
+      <link>https://mlauriere.github.io/workingpaper/carmona-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/carmona-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DeepSets and their derivative networks for solving symmetric PDEs</title>
       <link>https://mlauriere.github.io/workingpaper/germain-2021-deepsets/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/workingpaper/germain-2021-deepsets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite State Graphon Games with Applications to Epidemics</title>
+      <link>https://mlauriere.github.io/workingpaper/aurell-2021-finite/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/aurell-2021-finite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear-Quadratic Zero-Sum Mean-Field Type Games: Optimality Conditions and Policy Optimization</title>
+      <link>https://mlauriere.github.io/publication/carmona-2020-linear/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/carmona-2020-linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean Field Games Flock! The Reinforcement Learning Way</title>
+      <link>https://mlauriere.github.io/publication/perrin-2021-mean/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/publication/perrin-2021-mean/</guid>
       <description></description>
     </item>
     
@@ -38,11 +92,38 @@
     </item>
     
     <item>
+      <title>Numerical Methods for Mean Field Games and Mean Field Type Control</title>
+      <link>https://mlauriere.github.io/workingpaper/lauriere-2021-numerical/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/lauriere-2021-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Mean Field Games, with Applications to Economics</title>
+      <link>https://mlauriere.github.io/workingpaper/angiuli-2021-reinforcement/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/angiuli-2021-reinforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scaling up Mean Field Games with Online Mirror Descent</title>
       <link>https://mlauriere.github.io/workingpaper/perolat-2021-scalingup/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/workingpaper/perolat-2021-scalingup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Graphon Games: II. The Linear-Quadratic Case</title>
+      <link>https://mlauriere.github.io/workingpaper/aurell-2021-stochastic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/aurell-2021-stochastic/</guid>
       <description></description>
     </item>
     
@@ -61,87 +142,6 @@
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/publication/carmona-2020-policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mean Field Games and Applications: Numerical Aspects</title>
-      <link>https://mlauriere.github.io/publication/achdoulauriere-2020-mfg-numerical/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/achdoulauriere-2020-mfg-numerical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal control of conditioned processes with feedback controls</title>
-      <link>https://mlauriere.github.io/publication/achdou-lauriere-lions-2020-optimal/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/achdou-lauriere-lions-2020-optimal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Approximate Fictitious Play for Mean Field Games</title>
-      <link>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/elie-perolat-lauriere-geist-pietquin-2019-afp-mfg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unified reinforcement Q-learning for mean field game and control problems</title>
-      <link>https://mlauriere.github.io/workingpaper/angiuli-2020-unified/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/angiuli-2020-unified/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multipartite Generalization of Quantum Discord</title>
-      <link>https://mlauriere.github.io/publication/phys-rev-lett-124-110401/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/phys-rev-lett-124-110401/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Connecting GANs and MFGs</title>
-      <link>https://mlauriere.github.io/workingpaper/cao-guo-lauriere-2020-mfggan/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/cao-guo-lauriere-2020-mfggan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergence of large population games to mean field games with interaction through the controls</title>
-      <link>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2020-convergence/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/lauriere-tangpi-2020-convergence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID-19 pandemic control: balancing detection policy and lockdown intervention under ICU sustainability*</title>
-      <link>https://mlauriere.github.io/publication/charpentier-2020-covid/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/charpentier-2020-covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Large Banking Systems with Default and Recovery: A Mean Field Game Model</title>
-      <link>https://mlauriere.github.io/workingpaper/elie-ichiba-lauriere-2020-large-banking-mfg/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/elie-ichiba-lauriere-2020-large-banking-mfg/</guid>
       <description></description>
     </item>
     

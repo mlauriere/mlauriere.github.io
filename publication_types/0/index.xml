@@ -13,11 +13,38 @@
     
     
     <item>
+      <title>Concave Utility Reinforcement Learning: the Mean-field Game viewpoint</title>
+      <link>https://mlauriere.github.io/workingpaper/geist-2021-concave/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/geist-2021-concave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Mean Field Games and Mean Field Control with Applications to Finance</title>
+      <link>https://mlauriere.github.io/workingpaper/carmona-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/carmona-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DeepSets and their derivative networks for solving symmetric PDEs</title>
       <link>https://mlauriere.github.io/workingpaper/germain-2021-deepsets/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/workingpaper/germain-2021-deepsets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite State Graphon Games with Applications to Epidemics</title>
+      <link>https://mlauriere.github.io/workingpaper/aurell-2021-finite/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/aurell-2021-finite/</guid>
       <description></description>
     </item>
     
@@ -31,11 +58,38 @@
     </item>
     
     <item>
+      <title>Numerical Methods for Mean Field Games and Mean Field Type Control</title>
+      <link>https://mlauriere.github.io/workingpaper/lauriere-2021-numerical/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/lauriere-2021-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Mean Field Games, with Applications to Economics</title>
+      <link>https://mlauriere.github.io/workingpaper/angiuli-2021-reinforcement/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/angiuli-2021-reinforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scaling up Mean Field Games with Online Mirror Descent</title>
       <link>https://mlauriere.github.io/workingpaper/perolat-2021-scalingup/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/workingpaper/perolat-2021-scalingup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Graphon Games: II. The Linear-Quadratic Case</title>
+      <link>https://mlauriere.github.io/workingpaper/aurell-2021-stochastic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/aurell-2021-stochastic/</guid>
       <description></description>
     </item>
     
@@ -108,15 +162,6 @@
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-tan-2019-lqmfrl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: II - The Finite Horizon Case</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/carmona-lauriere-dl/</guid>
       <description></description>
     </item>
     
