@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mlauriere.github.io/workingpaper/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generalization in Mean Field Games by Learning Master Policies</title>
+      <link>https://mlauriere.github.io/workingpaper/perrin-2021-generalization-mfg/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/perrin-2021-generalization-mfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of a Markovian neural network versus dynamic programming on a fishing control problem</title>
+      <link>https://mlauriere.github.io/workingpaper/lauriere-2021-performance/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/lauriere-2021-performance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Concave Utility Reinforcement Learning: the Mean-field Game viewpoint</title>

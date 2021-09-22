@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,6 +17,24 @@
       <guid>https://mlauriere.github.io/home_original/about_original/</guid>
       <description>&lt;p&gt;I am currently a Postdoctoral Research Associate at Princeton University, in the Operations Research and Financial Engineering (ORFE) department, advised by René Carmona. My research interests include mean field control and mean field games, numerical methods, partial differential equations, stochastic analysis, machine learning, complexity theory and quantum computing.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Generalization in Mean Field Games by Learning Master Policies</title>
+      <link>https://mlauriere.github.io/workingpaper/perrin-2021-generalization-mfg/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/perrin-2021-generalization-mfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of a Markovian neural network versus dynamic programming on a fishing control problem</title>
+      <link>https://mlauriere.github.io/workingpaper/lauriere-2021-performance/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/lauriere-2021-performance/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -124,24 +142,6 @@
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/workingpaper/aurell-2021-stochastic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fictitious play for mean field games: Continuous time analysis and applications</title>
-      <link>https://mlauriere.github.io/publication/perrin-2020-fictitious/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/perrin-2020-fictitious/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Policy Optimization for Linear-Quadratic Zero-Sum Mean-Field Type Games</title>
-      <link>https://mlauriere.github.io/publication/carmona-2020-policy/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/carmona-2020-policy/</guid>
       <description></description>
     </item>
     
