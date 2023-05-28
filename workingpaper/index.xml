@@ -7,17 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mlauriere.github.io/workingpaper/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Recent developments in machine learning methods for stochastic control and games</title>
+      <link>https://mlauriere.github.io/workingpaper/hu-2022-recent/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/hu-2022-recent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Mean Field Optimal Transport</title>
+      <link>https://mlauriere.github.io/workingpaper/baudelet-2023-deep/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/baudelet-2023-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Machine Learning Method for Stackelberg Mean Field Games</title>
       <link>https://mlauriere.github.io/workingpaper/dayanikli-2023-machine/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mlauriere.github.io/workingpaper/dayanikli-2023-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Correlated Equilibria in Mean-Field Games</title>
+      <link>https://mlauriere.github.io/workingpaper/muller-2022-learning/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/muller-2022-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning mean field games: A survey</title>
+      <link>https://mlauriere.github.io/workingpaper/lauriere-2022-learning/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/lauriere-2022-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning architectures for price formation models</title>
+      <link>https://mlauriere.github.io/workingpaper/gomes-2022-machine/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlauriere.github.io/workingpaper/gomes-2022-machine/</guid>
       <description></description>
     </item>
     
