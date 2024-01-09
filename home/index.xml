@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://mlauriere.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://mlauriere.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>https://mlauriere.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -33,7 +33,7 @@
     <item>
       <title></title>
       <link>https://mlauriere.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/about/</guid>
       <description>I am currently an assistant professor of Mathematics and Data Science at NYU Shanghai. I obtained my MS from University Paris 6 and ENS Cachan, and my PhD from University Paris 7. I was a Postdoctoral Fellow at the NYU-ECNU Institute of Mathematical Sciences at NYU Shanghai and a Postdoctoral Research Associate at Princeton University, in the Operations Research and Financial Engineering (ORFE) department. Prior to my current position NYU Shanghai, I was a Visiting Faculty Researcher at Google Research, in the Brain Team (Paris).</description>
@@ -42,7 +42,7 @@
     <item>
       <title>Skills</title>
       <link>https://mlauriere.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/skills/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Selected Publications</title>
       <link>https://mlauriere.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/publications_selected/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Working Papers</title>
       <link>https://mlauriere.github.io/home/workingpapers/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/workingpapers/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Recent Publications</title>
       <link>https://mlauriere.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/publications/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>Selected Talks</title>
       <link>https://mlauriere.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/talks_selected/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://mlauriere.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/talks/</guid>
       <description></description>
@@ -123,7 +123,7 @@
     <item>
       <title>Recent Posts</title>
       <link>https://mlauriere.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/posts/</guid>
       <description></description>
@@ -132,7 +132,7 @@
     <item>
       <title>Projects</title>
       <link>https://mlauriere.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/projects/</guid>
       <description></description>
@@ -141,7 +141,7 @@
     <item>
       <title>CV</title>
       <link>https://mlauriere.github.io/home/cv/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/cv/</guid>
       <description>Download my CV</description>
@@ -150,7 +150,7 @@
     <item>
       <title>Tags</title>
       <link>https://mlauriere.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/tags/</guid>
       <description></description>
@@ -159,7 +159,7 @@
     <item>
       <title>Contact</title>
       <link>https://mlauriere.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mlauriere.github.io/home/contact/</guid>
       <description></description>
