@@ -7,46 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mlauriere.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>0</title>
-      <link>https://mlauriere.github.io/publication_types/0/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication_types/0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://mlauriere.github.io/publication_types/2/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://mlauriere.github.io/publication_types/1/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication_types/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>6</title>
-      <link>https://mlauriere.github.io/publication_types/6/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication_types/6/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

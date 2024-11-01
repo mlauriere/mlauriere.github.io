@@ -6,143 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
       <link>https://mlauriere.github.io/home_original/about_original/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://mlauriere.github.io/home_original/about_original/</guid>
       <description>&lt;p&gt;I am currently a Postdoctoral Research Associate at Princeton University, in the Operations Research and Financial Engineering (ORFE) department, advised by René Carmona. My research interests include mean field control and mean field games, numerical methods, partial differential equations, stochastic analysis, machine learning, complexity theory and quantum computing.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Recent developments in machine learning methods for stochastic control and games</title>
-      <link>https://mlauriere.github.io/workingpaper/hu-2022-recent/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/hu-2022-recent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning for Mean Field Optimal Transport</title>
-      <link>https://mlauriere.github.io/workingpaper/baudelet-2023-deep/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/baudelet-2023-deep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Machine Learning Method for Stackelberg Mean Field Games</title>
-      <link>https://mlauriere.github.io/workingpaper/dayanikli-2023-machine/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/dayanikli-2023-machine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Correlated Equilibria in Mean-Field Games</title>
-      <link>https://mlauriere.github.io/workingpaper/muller-2022-learning/</link>
-      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/muller-2022-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning mean field games: A survey</title>
-      <link>https://mlauriere.github.io/workingpaper/lauriere-2022-learning/</link>
-      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/lauriere-2022-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning architectures for price formation models</title>
-      <link>https://mlauriere.github.io/workingpaper/gomes-2022-machine/</link>
-      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/gomes-2022-machine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalization in Mean Field Games by Learning Master Policies</title>
-      <link>https://mlauriere.github.io/workingpaper/perrin-2021-generalization-mfg/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/perrin-2021-generalization-mfg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance of a Markovian neural network versus dynamic programming on a fishing control problem</title>
-      <link>https://mlauriere.github.io/workingpaper/lauriere-2021-performance/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/lauriere-2021-performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Concave Utility Reinforcement Learning: the Mean-field Game viewpoint</title>
-      <link>https://mlauriere.github.io/workingpaper/geist-2021-concave/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/geist-2021-concave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: II - The Finite Horizon Case</title>
-      <link>https://mlauriere.github.io/publication/carmona-lauriere-dl/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/carmona-lauriere-dl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning for Mean Field Games and Mean Field Control with Applications to Finance</title>
-      <link>https://mlauriere.github.io/workingpaper/carmona-2021-deep/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/carmona-2021-deep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DeepSets and their derivative networks for solving symmetric PDEs</title>
-      <link>https://mlauriere.github.io/workingpaper/germain-2021-deepsets/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/germain-2021-deepsets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finite State Graphon Games with Applications to Epidemics</title>
-      <link>https://mlauriere.github.io/workingpaper/aurell-2021-finite/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/workingpaper/aurell-2021-finite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear-Quadratic Zero-Sum Mean-Field Type Games: Optimality Conditions and Policy Optimization</title>
-      <link>https://mlauriere.github.io/publication/carmona-2020-linear/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mlauriere.github.io/publication/carmona-2020-linear/</guid>
-      <description></description>
     </item>
     
   </channel>
